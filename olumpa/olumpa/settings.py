@@ -40,8 +40,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'alumpa',
-    "rest_framework",
-    "alumpa",
 ]
 
 MIDDLEWARE = [
