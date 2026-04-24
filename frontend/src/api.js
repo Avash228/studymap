@@ -1,4 +1,4 @@
-const API_BASE = 'http://127.0.0.1:8000/api';
+const API_BASE = 'https://studymap-yrde.onrender.com';
 
 export async function fetchSubjects() {
   const response = await fetch(`${API_BASE}/subjects/`);
